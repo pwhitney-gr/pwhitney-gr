@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pwhitney-gr
+- 👋 Hi, I’m @pwhitney-gr, a.k.a Patrick (Pat) Whitney
 - 👀 I’m interested in Amateur Radio (a.k.a ham radio) 📻
 - 🌱 I’m currently learning how to coach kindegarteners to play baseball
 - 💞️ I’m looking to collaborate on IaC (I like Terraform, but am open to others)
